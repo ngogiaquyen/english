@@ -1,0 +1,2393 @@
+{
+  "meta": {
+    "title": "Vietnamese A1 Learning Data — Southern (Saigon) Dialect",
+    "description": "Vocabulary and grammar dataset behind the 'Bé Rồng' learning app and matching PDF cheat sheet. Contains 75 adjectives, 75 verbs, 75 nouns, 30 core grammar cards, plus directions/prepositions and Southern pronunciation notes that currently exist only in the PDF (not yet in the app).",
+    "dialect_focus": "Southern Vietnamese (Saigon-area), with notes flagging differences from Northern/textbook Vietnamese",
+    "level": "A1 (beginner)",
+    "field_reference": {
+      "vi": "Vietnamese word or phrase",
+      "en": "English meaning/gloss",
+      "cat": "sub-category used for grouping in the glossary",
+      "type": "adjective | verb | noun | grammar",
+      "note": "usage note, often flagging Southern vs Northern dialect differences",
+      "alt": "alternate acceptable spelling(s) for free-text answer checking",
+      "sVi": "example sentence in Vietnamese with ___ marking the blank for the target word",
+      "sEn": "English translation of the example sentence"
+    }
+  },
+  "adjectives": [
+    {
+      "vi": "lớn",
+      "en": "big",
+      "cat": "Size & Shape",
+      "note": "Southern; Northern often says 'to'",
+      "sVi": "Cái nhà này rất ___.",
+      "sEn": "This house is very big.",
+      "type": "adjective"
+    },
+    {
+      "vi": "nhỏ",
+      "en": "small",
+      "cat": "Size & Shape",
+      "sVi": "Con mèo này rất ___.",
+      "sEn": "This cat is very small.",
+      "type": "adjective"
+    },
+    {
+      "vi": "cao",
+      "en": "tall / high",
+      "cat": "Size & Shape",
+      "sVi": "Anh ấy rất ___.",
+      "sEn": "He is very tall.",
+      "type": "adjective"
+    },
+    {
+      "vi": "thấp",
+      "en": "short / low",
+      "cat": "Size & Shape",
+      "sVi": "Cái bàn này hơi ___.",
+      "sEn": "This table is a bit low.",
+      "type": "adjective"
+    },
+    {
+      "vi": "dài",
+      "en": "long",
+      "cat": "Size & Shape",
+      "sVi": "Con đường này rất ___.",
+      "sEn": "This road is very long.",
+      "type": "adjective"
+    },
+    {
+      "vi": "ngắn",
+      "en": "short (length)",
+      "cat": "Size & Shape",
+      "sVi": "Cái quần này quá ___.",
+      "sEn": "These pants are too short.",
+      "type": "adjective"
+    },
+    {
+      "vi": "rộng",
+      "en": "wide / spacious",
+      "cat": "Size & Shape",
+      "sVi": "Căn phòng này rất ___.",
+      "sEn": "This room is very spacious.",
+      "type": "adjective"
+    },
+    {
+      "vi": "chật",
+      "en": "narrow / tight",
+      "cat": "Size & Shape",
+      "sVi": "Cái áo này hơi ___.",
+      "sEn": "This shirt is a bit tight.",
+      "type": "adjective"
+    },
+    {
+      "vi": "nặng",
+      "en": "heavy",
+      "cat": "Size & Shape",
+      "sVi": "Cái vali này rất ___.",
+      "sEn": "This suitcase is very heavy.",
+      "type": "adjective"
+    },
+    {
+      "vi": "nhẹ",
+      "en": "light (weight)",
+      "cat": "Size & Shape",
+      "sVi": "Cái túi này rất ___.",
+      "sEn": "This bag is very light.",
+      "type": "adjective"
+    },
+    {
+      "vi": "đẹp",
+      "en": "beautiful",
+      "cat": "People & Appearance",
+      "sVi": "Cô ấy rất ___.",
+      "sEn": "She is very beautiful.",
+      "type": "adjective"
+    },
+    {
+      "vi": "xấu",
+      "en": "ugly / bad",
+      "cat": "People & Appearance",
+      "sVi": "Thời tiết hôm nay ___.",
+      "sEn": "The weather today is bad.",
+      "type": "adjective"
+    },
+    {
+      "vi": "mập",
+      "en": "fat",
+      "cat": "People & Appearance",
+      "note": "Southern; Northern says 'béo'",
+      "sVi": "Con chó của tôi hơi ___.",
+      "sEn": "My dog is a bit fat.",
+      "type": "adjective"
+    },
+    {
+      "vi": "ốm",
+      "en": "thin / skinny",
+      "cat": "People & Appearance",
+      "note": "⚠️ In the North 'ốm' means sick, not thin!",
+      "sVi": "Anh ấy rất ___.",
+      "sEn": "He is very thin.",
+      "type": "adjective"
+    },
+    {
+      "vi": "già",
+      "en": "old (people)",
+      "cat": "People & Appearance",
+      "sVi": "Ông tôi đã ___ rồi.",
+      "sEn": "My grandfather is already old.",
+      "type": "adjective"
+    },
+    {
+      "vi": "trẻ",
+      "en": "young",
+      "cat": "People & Appearance",
+      "sVi": "Cô giáo của tôi còn rất ___.",
+      "sEn": "My teacher is still very young.",
+      "type": "adjective"
+    },
+    {
+      "vi": "mới",
+      "en": "new",
+      "cat": "People & Appearance",
+      "sVi": "Tôi có một cái điện thoại ___.",
+      "sEn": "I have a new phone.",
+      "type": "adjective"
+    },
+    {
+      "vi": "cũ",
+      "en": "old (things)",
+      "cat": "People & Appearance",
+      "sVi": "Cái xe này rất ___.",
+      "sEn": "This bike is very old.",
+      "type": "adjective"
+    },
+    {
+      "vi": "vui",
+      "en": "happy",
+      "cat": "Feelings",
+      "sVi": "Hôm nay tôi rất ___.",
+      "sEn": "Today I am very happy.",
+      "type": "adjective"
+    },
+    {
+      "vi": "buồn",
+      "en": "sad",
+      "cat": "Feelings",
+      "sVi": "Sao bạn ___ vậy?",
+      "sEn": "Why are you sad?",
+      "type": "adjective"
+    },
+    {
+      "vi": "giận",
+      "en": "angry",
+      "cat": "Feelings",
+      "sVi": "Mẹ tôi đang ___.",
+      "sEn": "My mom is angry.",
+      "type": "adjective"
+    },
+    {
+      "vi": "mệt",
+      "en": "tired",
+      "cat": "Feelings",
+      "sVi": "Tôi rất ___ sau khi làm việc.",
+      "sEn": "I am very tired after work.",
+      "type": "adjective"
+    },
+    {
+      "vi": "đói",
+      "en": "hungry",
+      "cat": "Feelings",
+      "sVi": "Tôi rất ___, mình đi ăn nhé.",
+      "sEn": "I'm very hungry, let's go eat.",
+      "type": "adjective"
+    },
+    {
+      "vi": "no",
+      "en": "full (after eating)",
+      "cat": "Feelings",
+      "sVi": "Tôi ăn xong rồi, tôi rất ___.",
+      "sEn": "I finished eating, I'm very full.",
+      "type": "adjective"
+    },
+    {
+      "vi": "khát",
+      "en": "thirsty",
+      "cat": "Feelings",
+      "sVi": "Trời nóng quá, tôi rất ___.",
+      "sEn": "It's so hot, I'm very thirsty.",
+      "type": "adjective"
+    },
+    {
+      "vi": "sợ",
+      "en": "scared",
+      "cat": "Feelings",
+      "sVi": "Tôi rất ___ con nhện.",
+      "sEn": "I'm very scared of spiders.",
+      "type": "adjective"
+    },
+    {
+      "vi": "tốt",
+      "en": "good",
+      "cat": "Qualities",
+      "sVi": "Anh ấy là một người rất ___.",
+      "sEn": "He is a very good person.",
+      "type": "adjective"
+    },
+    {
+      "vi": "dễ",
+      "en": "easy",
+      "cat": "Qualities",
+      "sVi": "Bài tập này rất ___.",
+      "sEn": "This exercise is very easy.",
+      "type": "adjective"
+    },
+    {
+      "vi": "khó",
+      "en": "difficult",
+      "cat": "Qualities",
+      "sVi": "Tiếng Việt hơi ___ nhưng thú vị.",
+      "sEn": "Vietnamese is a bit difficult but interesting.",
+      "type": "adjective"
+    },
+    {
+      "vi": "nhanh",
+      "en": "fast",
+      "cat": "Qualities",
+      "sVi": "Xe máy chạy rất ___.",
+      "sEn": "The motorbike goes very fast.",
+      "type": "adjective"
+    },
+    {
+      "vi": "chậm",
+      "en": "slow",
+      "cat": "Qualities",
+      "sVi": "Internet ở đây rất ___.",
+      "sEn": "The internet here is very slow.",
+      "type": "adjective"
+    },
+    {
+      "vi": "mạnh",
+      "en": "strong",
+      "cat": "Qualities",
+      "sVi": "Anh ấy rất ___.",
+      "sEn": "He is very strong.",
+      "type": "adjective"
+    },
+    {
+      "vi": "yếu",
+      "en": "weak",
+      "cat": "Qualities",
+      "sVi": "Sau khi bệnh, tôi cảm thấy rất ___.",
+      "sEn": "After being sick, I feel very weak.",
+      "type": "adjective"
+    },
+    {
+      "vi": "thông minh",
+      "en": "smart",
+      "cat": "Qualities",
+      "sVi": "Cô ấy rất ___.",
+      "sEn": "She is very smart.",
+      "type": "adjective"
+    },
+    {
+      "vi": "sạch",
+      "en": "clean",
+      "cat": "Qualities",
+      "sVi": "Phòng của tôi rất ___.",
+      "sEn": "My room is very clean.",
+      "type": "adjective"
+    },
+    {
+      "vi": "dơ",
+      "en": "dirty",
+      "cat": "Qualities",
+      "note": "Southern; Northern says 'bẩn'",
+      "alt": [
+        "bẩn"
+      ],
+      "sVi": "Đôi giày của tôi rất ___.",
+      "sEn": "My shoes are very dirty.",
+      "type": "adjective"
+    },
+    {
+      "vi": "rẻ",
+      "en": "cheap",
+      "cat": "Money & Value",
+      "sVi": "Trái cây ở chợ rất ___.",
+      "sEn": "Fruit at the market is very cheap.",
+      "type": "adjective"
+    },
+    {
+      "vi": "mắc",
+      "en": "expensive",
+      "cat": "Money & Value",
+      "note": "Very common in the South; also 'đắt'",
+      "alt": [
+        "đắt"
+      ],
+      "sVi": "Cái điện thoại này quá ___.",
+      "sEn": "This phone is too expensive.",
+      "type": "adjective"
+    },
+    {
+      "vi": "giàu",
+      "en": "rich",
+      "cat": "Money & Value",
+      "sVi": "Ông ấy rất ___.",
+      "sEn": "He is very rich.",
+      "type": "adjective"
+    },
+    {
+      "vi": "nghèo",
+      "en": "poor",
+      "cat": "Money & Value",
+      "sVi": "Gia đình đó rất ___.",
+      "sEn": "That family is very poor.",
+      "type": "adjective"
+    },
+    {
+      "vi": "ngon",
+      "en": "delicious",
+      "cat": "Taste",
+      "sVi": "Món phở này rất ___.",
+      "sEn": "This pho is very delicious.",
+      "type": "adjective"
+    },
+    {
+      "vi": "dở",
+      "en": "not tasty / bad at",
+      "cat": "Taste",
+      "sVi": "Món ăn này hơi ___.",
+      "sEn": "This dish is not very tasty.",
+      "type": "adjective"
+    },
+    {
+      "vi": "ngọt",
+      "en": "sweet",
+      "cat": "Taste",
+      "sVi": "Ly trà sữa này rất ___.",
+      "sEn": "This milk tea is very sweet.",
+      "type": "adjective"
+    },
+    {
+      "vi": "mặn",
+      "en": "salty",
+      "cat": "Taste",
+      "sVi": "Món canh này hơi ___.",
+      "sEn": "This soup is a bit salty.",
+      "type": "adjective"
+    },
+    {
+      "vi": "chua",
+      "en": "sour",
+      "cat": "Taste",
+      "sVi": "Trái xoài này rất ___.",
+      "sEn": "This mango is very sour.",
+      "type": "adjective"
+    },
+    {
+      "vi": "cay",
+      "en": "spicy",
+      "cat": "Taste",
+      "sVi": "Món này rất ___.",
+      "sEn": "This dish is very spicy.",
+      "type": "adjective"
+    },
+    {
+      "vi": "đắng",
+      "en": "bitter",
+      "cat": "Taste",
+      "sVi": "Ly cà phê này rất ___.",
+      "sEn": "This coffee is very bitter.",
+      "type": "adjective"
+    },
+    {
+      "vi": "nóng",
+      "en": "hot",
+      "cat": "Temperature",
+      "sVi": "Hôm nay trời rất ___.",
+      "sEn": "Today the weather is very hot.",
+      "type": "adjective"
+    },
+    {
+      "vi": "lạnh",
+      "en": "cold",
+      "cat": "Temperature",
+      "sVi": "Nước này rất ___.",
+      "sEn": "This water is very cold.",
+      "type": "adjective"
+    },
+    {
+      "vi": "mát",
+      "en": "cool / refreshing",
+      "cat": "Temperature",
+      "sVi": "Buổi sáng trời rất ___.",
+      "sEn": "The morning air is very cool.",
+      "type": "adjective"
+    },
+    {
+      "vi": "ồn",
+      "en": "noisy / loud",
+      "cat": "Sound",
+      "sVi": "Quán này quá ___.",
+      "sEn": "This cafe is too noisy.",
+      "type": "adjective"
+    },
+    {
+      "vi": "yên tĩnh",
+      "en": "quiet / peaceful",
+      "cat": "Sound",
+      "sVi": "Ngôi làng này rất ___.",
+      "sEn": "This village is very peaceful.",
+      "type": "adjective"
+    },
+    {
+      "vi": "im lặng",
+      "en": "silent",
+      "cat": "Sound",
+      "sVi": "Cả lớp rất ___.",
+      "sEn": "The whole class is silent.",
+      "type": "adjective"
+    },
+    {
+      "vi": "náo nhiệt",
+      "en": "lively / bustling",
+      "cat": "Sound",
+      "sVi": "Thành phố này rất ___.",
+      "sEn": "This city is very lively.",
+      "type": "adjective"
+    },
+    {
+      "vi": "bận",
+      "en": "busy",
+      "cat": "Time",
+      "sVi": "Hôm nay tôi rất ___.",
+      "sEn": "Today I am very busy.",
+      "type": "adjective"
+    },
+    {
+      "vi": "rảnh",
+      "en": "free / available",
+      "cat": "Time",
+      "sVi": "Cuối tuần này bạn có ___ không?",
+      "sEn": "Are you free this weekend?",
+      "type": "adjective"
+    },
+    {
+      "vi": "sớm",
+      "en": "early",
+      "cat": "Time",
+      "sVi": "Tôi thức dậy rất ___.",
+      "sEn": "I wake up very early.",
+      "type": "adjective"
+    },
+    {
+      "vi": "trễ",
+      "en": "late",
+      "cat": "Time",
+      "note": "Southern; Northern says 'muộn'",
+      "alt": [
+        "muộn"
+      ],
+      "sVi": "Xe buýt hôm nay bị ___.",
+      "sEn": "The bus was late today.",
+      "type": "adjective"
+    },
+    {
+      "vi": "đơn giản",
+      "en": "simple",
+      "cat": "Difficulty",
+      "sVi": "Câu hỏi này rất ___.",
+      "sEn": "This question is very simple.",
+      "type": "adjective"
+    },
+    {
+      "vi": "phức tạp",
+      "en": "complicated",
+      "cat": "Difficulty",
+      "sVi": "Vấn đề này khá ___.",
+      "sEn": "This problem is quite complicated.",
+      "type": "adjective"
+    },
+    {
+      "vi": "lười",
+      "en": "lazy",
+      "cat": "Difficulty",
+      "sVi": "Con mèo của tôi rất ___.",
+      "sEn": "My cat is very lazy.",
+      "type": "adjective"
+    },
+    {
+      "vi": "siêng",
+      "en": "hardworking",
+      "cat": "Difficulty",
+      "note": "Casual Southern word; textbooks use 'chăm chỉ'",
+      "alt": [
+        "chăm chỉ"
+      ],
+      "sVi": "Anh ấy rất ___.",
+      "sEn": "He is very hardworking.",
+      "type": "adjective"
+    },
+    {
+      "vi": "hiền",
+      "en": "gentle / kind",
+      "cat": "Personality",
+      "sVi": "Bà tôi rất ___.",
+      "sEn": "My grandmother is very gentle.",
+      "type": "adjective"
+    },
+    {
+      "vi": "dữ",
+      "en": "fierce / strict",
+      "cat": "Personality",
+      "sVi": "Con chó đó rất ___.",
+      "sEn": "That dog is very fierce.",
+      "type": "adjective"
+    },
+    {
+      "vi": "vui tính",
+      "en": "funny / fun-loving",
+      "cat": "Personality",
+      "sVi": "Bạn tôi rất ___.",
+      "sEn": "My friend is very funny.",
+      "type": "adjective"
+    },
+    {
+      "vi": "nghiêm túc",
+      "en": "serious",
+      "cat": "Personality",
+      "sVi": "Anh ấy rất ___ trong công việc.",
+      "sEn": "He is very serious about work.",
+      "type": "adjective"
+    },
+    {
+      "vi": "khỏe",
+      "en": "healthy / well",
+      "cat": "Physical State",
+      "sVi": "Bạn có ___ không?",
+      "sEn": "Are you well?",
+      "type": "adjective"
+    },
+    {
+      "vi": "bệnh",
+      "en": "sick",
+      "cat": "Physical State",
+      "note": "Remember: 'ốm' means thin here, not sick",
+      "sVi": "Tôi bị ___ hôm qua.",
+      "sEn": "I was sick yesterday.",
+      "type": "adjective"
+    },
+    {
+      "vi": "đau",
+      "en": "hurting / painful",
+      "cat": "Physical State",
+      "sVi": "Chân tôi rất ___.",
+      "sEn": "My leg hurts a lot.",
+      "type": "adjective"
+    },
+    {
+      "vi": "gần",
+      "en": "near",
+      "cat": "Distance",
+      "sVi": "Nhà tôi rất ___ trường học.",
+      "sEn": "My house is very near the school.",
+      "type": "adjective"
+    },
+    {
+      "vi": "xa",
+      "en": "far",
+      "cat": "Distance",
+      "sVi": "Công ty tôi ở rất ___.",
+      "sEn": "My company is very far.",
+      "type": "adjective"
+    },
+    {
+      "vi": "đúng",
+      "en": "correct",
+      "cat": "Everyday",
+      "sVi": "Câu trả lời của bạn rất ___.",
+      "sEn": "Your answer is correct.",
+      "type": "adjective"
+    },
+    {
+      "vi": "sai",
+      "en": "wrong",
+      "cat": "Everyday",
+      "sVi": "Câu này bị ___ rồi.",
+      "sEn": "This sentence is wrong.",
+      "type": "adjective"
+    },
+    {
+      "vi": "quan trọng",
+      "en": "important",
+      "cat": "Everyday",
+      "sVi": "Đây là việc rất ___.",
+      "sEn": "This is a very important matter.",
+      "type": "adjective"
+    },
+    {
+      "vi": "thú vị",
+      "en": "interesting",
+      "cat": "Everyday",
+      "sVi": "Cuốn sách này rất ___.",
+      "sEn": "This book is very interesting.",
+      "type": "adjective"
+    }
+  ],
+  "verbs": [
+    {
+      "vi": "ăn",
+      "en": "eat",
+      "cat": "Daily Life",
+      "sVi": "Tôi ___ cơm lúc bảy giờ.",
+      "sEn": "I eat rice at seven o'clock.",
+      "type": "verb"
+    },
+    {
+      "vi": "uống",
+      "en": "drink",
+      "cat": "Daily Life",
+      "sVi": "Tôi ___ nước mỗi ngày.",
+      "sEn": "I drink water every day.",
+      "type": "verb"
+    },
+    {
+      "vi": "ngủ",
+      "en": "sleep",
+      "cat": "Daily Life",
+      "sVi": "Em bé đang ___.",
+      "sEn": "The baby is sleeping.",
+      "type": "verb"
+    },
+    {
+      "vi": "thức dậy",
+      "en": "wake up",
+      "cat": "Daily Life",
+      "sVi": "Tôi ___ lúc sáu giờ.",
+      "sEn": "I wake up at six o'clock.",
+      "type": "verb"
+    },
+    {
+      "vi": "tắm",
+      "en": "shower / bathe",
+      "cat": "Daily Life",
+      "sVi": "Tôi ___ vào buổi tối.",
+      "sEn": "I shower in the evening.",
+      "type": "verb"
+    },
+    {
+      "vi": "mặc",
+      "en": "wear (clothes)",
+      "cat": "Daily Life",
+      "sVi": "Cô ấy ___ áo dài.",
+      "sEn": "She wears an áo dài.",
+      "type": "verb"
+    },
+    {
+      "vi": "nghỉ ngơi",
+      "en": "rest",
+      "cat": "Daily Life",
+      "sVi": "Cuối tuần tôi thích ___.",
+      "sEn": "On weekends I like to rest.",
+      "type": "verb"
+    },
+    {
+      "vi": "làm",
+      "en": "do / make",
+      "cat": "Daily Life",
+      "sVi": "Bạn đang ___ gì vậy?",
+      "sEn": "What are you doing?",
+      "type": "verb"
+    },
+    {
+      "vi": "đi",
+      "en": "go",
+      "cat": "Daily Life",
+      "sVi": "Chúng tôi ___ chợ.",
+      "sEn": "We go to the market.",
+      "type": "verb"
+    },
+    {
+      "vi": "đến",
+      "en": "come / arrive",
+      "cat": "Daily Life",
+      "sVi": "Anh ấy sắp ___ rồi.",
+      "sEn": "He is about to arrive.",
+      "type": "verb"
+    },
+    {
+      "vi": "về",
+      "en": "return / go home",
+      "cat": "Daily Life",
+      "sVi": "Tôi phải ___ nhà bây giờ.",
+      "sEn": "I have to go home now.",
+      "type": "verb"
+    },
+    {
+      "vi": "ở",
+      "en": "stay / live",
+      "cat": "Daily Life",
+      "sVi": "Gia đình tôi ___ Sài Gòn.",
+      "sEn": "My family lives in Saigon.",
+      "type": "verb"
+    },
+    {
+      "vi": "ra",
+      "en": "go out / exit",
+      "cat": "Daily Life",
+      "sVi": "Bạn muốn ___ ngoài không?",
+      "sEn": "Do you want to go outside?",
+      "type": "verb"
+    },
+    {
+      "vi": "vào",
+      "en": "go in / enter",
+      "cat": "Daily Life",
+      "sVi": "Mời bạn ___ nhà.",
+      "sEn": "Please come inside the house.",
+      "type": "verb"
+    },
+    {
+      "vi": "lên",
+      "en": "go up",
+      "cat": "Daily Life",
+      "sVi": "Chúng ta ___ lầu hai nhé.",
+      "sEn": "Let's go up to the second floor.",
+      "type": "verb"
+    },
+    {
+      "vi": "xuống",
+      "en": "go down",
+      "cat": "Daily Life",
+      "sVi": "Bạn ___ xe ở đây được rồi.",
+      "sEn": "You can get off/down here.",
+      "type": "verb"
+    },
+    {
+      "vi": "nói",
+      "en": "speak / say",
+      "cat": "Communication",
+      "sVi": "Cô ấy ___ tiếng Việt rất giỏi.",
+      "sEn": "She speaks Vietnamese very well.",
+      "type": "verb"
+    },
+    {
+      "vi": "nghe",
+      "en": "listen / hear",
+      "cat": "Communication",
+      "sVi": "Tôi thích ___ nhạc.",
+      "sEn": "I like to listen to music.",
+      "type": "verb"
+    },
+    {
+      "vi": "hỏi",
+      "en": "ask",
+      "cat": "Communication",
+      "sVi": "Tôi muốn ___ một câu.",
+      "sEn": "I want to ask a question.",
+      "type": "verb"
+    },
+    {
+      "vi": "trả lời",
+      "en": "answer",
+      "cat": "Communication",
+      "sVi": "Bạn có thể ___ câu hỏi này không?",
+      "sEn": "Can you answer this question?",
+      "type": "verb"
+    },
+    {
+      "vi": "gọi",
+      "en": "call",
+      "cat": "Communication",
+      "sVi": "Tôi sẽ ___ cho bạn sau.",
+      "sEn": "I will call you later.",
+      "type": "verb"
+    },
+    {
+      "vi": "nhắn tin",
+      "en": "text message",
+      "cat": "Communication",
+      "sVi": "Anh ấy đang ___ cho tôi.",
+      "sEn": "He is texting me.",
+      "type": "verb"
+    },
+    {
+      "vi": "cười",
+      "en": "laugh / smile",
+      "cat": "Communication",
+      "sVi": "Em bé đang ___.",
+      "sEn": "The baby is smiling.",
+      "type": "verb"
+    },
+    {
+      "vi": "khóc",
+      "en": "cry",
+      "cat": "Communication",
+      "sVi": "Tại sao bạn ___ vậy?",
+      "sEn": "Why are you crying?",
+      "type": "verb"
+    },
+    {
+      "vi": "hát",
+      "en": "sing",
+      "cat": "Communication",
+      "sVi": "Cô ấy ___ rất hay.",
+      "sEn": "She sings very well.",
+      "type": "verb"
+    },
+    {
+      "vi": "chạy",
+      "en": "run",
+      "cat": "Movement",
+      "sVi": "Anh ấy ___ mỗi sáng.",
+      "sEn": "He runs every morning.",
+      "type": "verb"
+    },
+    {
+      "vi": "đi bộ",
+      "en": "walk",
+      "cat": "Movement",
+      "sVi": "Tôi thích ___ trong công viên.",
+      "sEn": "I like to walk in the park.",
+      "type": "verb"
+    },
+    {
+      "vi": "lái xe",
+      "en": "drive",
+      "cat": "Movement",
+      "sVi": "Ba tôi ___ đi làm.",
+      "sEn": "My dad drives to work.",
+      "type": "verb"
+    },
+    {
+      "vi": "bay",
+      "en": "fly",
+      "cat": "Movement",
+      "sVi": "Máy bay sắp ___.",
+      "sEn": "The plane is about to fly.",
+      "type": "verb"
+    },
+    {
+      "vi": "bơi",
+      "en": "swim",
+      "cat": "Movement",
+      "sVi": "Tôi không biết ___.",
+      "sEn": "I don't know how to swim.",
+      "type": "verb"
+    },
+    {
+      "vi": "nhảy",
+      "en": "jump / dance",
+      "cat": "Movement",
+      "sVi": "Họ đang ___ ở bữa tiệc.",
+      "sEn": "They are dancing at the party.",
+      "type": "verb"
+    },
+    {
+      "vi": "nấu",
+      "en": "cook",
+      "cat": "Food & Shopping",
+      "sVi": "Mẹ tôi đang ___ cơm.",
+      "sEn": "My mom is cooking rice.",
+      "type": "verb"
+    },
+    {
+      "vi": "mua",
+      "en": "buy",
+      "cat": "Food & Shopping",
+      "sVi": "Tôi muốn ___ trái cây.",
+      "sEn": "I want to buy fruit.",
+      "type": "verb"
+    },
+    {
+      "vi": "bán",
+      "en": "sell",
+      "cat": "Food & Shopping",
+      "sVi": "Cô ấy ___ quần áo ở chợ.",
+      "sEn": "She sells clothes at the market.",
+      "type": "verb"
+    },
+    {
+      "vi": "trả tiền",
+      "en": "pay",
+      "cat": "Food & Shopping",
+      "sVi": "Ai sẽ ___ hôm nay?",
+      "sEn": "Who will pay today?",
+      "type": "verb"
+    },
+    {
+      "vi": "học",
+      "en": "study / learn",
+      "cat": "Work & Study",
+      "sVi": "Tôi đang ___ tiếng Việt.",
+      "sEn": "I am learning Vietnamese.",
+      "type": "verb"
+    },
+    {
+      "vi": "dạy",
+      "en": "teach",
+      "cat": "Work & Study",
+      "sVi": "Cô ấy ___ tiếng Anh.",
+      "sEn": "She teaches English.",
+      "type": "verb"
+    },
+    {
+      "vi": "làm việc",
+      "en": "work",
+      "cat": "Work & Study",
+      "sVi": "Anh ấy ___ ở ngân hàng.",
+      "sEn": "He works at a bank.",
+      "type": "verb"
+    },
+    {
+      "vi": "viết",
+      "en": "write",
+      "cat": "Work & Study",
+      "sVi": "Tôi đang ___ một lá thư.",
+      "sEn": "I am writing a letter.",
+      "type": "verb"
+    },
+    {
+      "vi": "đọc",
+      "en": "read",
+      "cat": "Work & Study",
+      "sVi": "Tôi thích ___ sách.",
+      "sEn": "I like to read books.",
+      "type": "verb"
+    },
+    {
+      "vi": "hiểu",
+      "en": "understand",
+      "cat": "Senses & Mind",
+      "sVi": "Bạn có ___ không?",
+      "sEn": "Do you understand?",
+      "type": "verb"
+    },
+    {
+      "vi": "biết",
+      "en": "know",
+      "cat": "Senses & Mind",
+      "sVi": "Tôi không ___ câu trả lời.",
+      "sEn": "I don't know the answer.",
+      "type": "verb"
+    },
+    {
+      "vi": "nhớ",
+      "en": "remember / miss",
+      "cat": "Senses & Mind",
+      "sVi": "Tôi rất ___ gia đình.",
+      "sEn": "I miss my family a lot.",
+      "type": "verb"
+    },
+    {
+      "vi": "quên",
+      "en": "forget",
+      "cat": "Senses & Mind",
+      "sVi": "Tôi ___ mang ví rồi.",
+      "sEn": "I forgot to bring my wallet.",
+      "type": "verb"
+    },
+    {
+      "vi": "thấy",
+      "en": "see",
+      "cat": "Senses & Mind",
+      "sVi": "Tôi ___ một con chó.",
+      "sEn": "I see a dog.",
+      "type": "verb"
+    },
+    {
+      "vi": "nhìn",
+      "en": "look at",
+      "cat": "Senses & Mind",
+      "sVi": "Đừng ___ tôi như vậy.",
+      "sEn": "Don't look at me like that.",
+      "type": "verb"
+    },
+    {
+      "vi": "xem",
+      "en": "watch",
+      "cat": "Senses & Mind",
+      "note": "Southern colloquial: coi",
+      "alt": [
+        "coi"
+      ],
+      "sVi": "Chúng tôi đang ___ phim.",
+      "sEn": "We are watching a movie.",
+      "type": "verb"
+    },
+    {
+      "vi": "cảm thấy",
+      "en": "feel",
+      "cat": "Senses & Mind",
+      "sVi": "Tôi ___ rất mệt.",
+      "sEn": "I feel very tired.",
+      "type": "verb"
+    },
+    {
+      "vi": "nghĩ",
+      "en": "think",
+      "cat": "Senses & Mind",
+      "sVi": "Bạn ___ gì về việc này?",
+      "sEn": "What do you think about this?",
+      "type": "verb"
+    },
+    {
+      "vi": "tin",
+      "en": "believe",
+      "cat": "Senses & Mind",
+      "sVi": "Tôi ___ bạn.",
+      "sEn": "I believe you.",
+      "type": "verb"
+    },
+    {
+      "vi": "thích",
+      "en": "like",
+      "cat": "Senses & Mind",
+      "sVi": "Tôi rất ___ món này.",
+      "sEn": "I like this dish a lot.",
+      "type": "verb"
+    },
+    {
+      "vi": "yêu",
+      "en": "love",
+      "cat": "Senses & Mind",
+      "sVi": "Tôi ___ gia đình của tôi.",
+      "sEn": "I love my family.",
+      "type": "verb"
+    },
+    {
+      "vi": "ghét",
+      "en": "hate",
+      "cat": "Senses & Mind",
+      "sVi": "Tôi ___ trời mưa.",
+      "sEn": "I hate rainy weather.",
+      "type": "verb"
+    },
+    {
+      "vi": "muốn",
+      "en": "want",
+      "cat": "Senses & Mind",
+      "sVi": "Bạn ___ ăn gì?",
+      "sEn": "What do you want to eat?",
+      "type": "verb"
+    },
+    {
+      "vi": "gặp",
+      "en": "meet",
+      "cat": "Social",
+      "sVi": "Rất vui được ___ bạn.",
+      "sEn": "Nice to meet you.",
+      "type": "verb"
+    },
+    {
+      "vi": "giúp",
+      "en": "help",
+      "cat": "Social",
+      "sVi": "Bạn có thể ___ tôi không?",
+      "sEn": "Can you help me?",
+      "type": "verb"
+    },
+    {
+      "vi": "mời",
+      "en": "invite",
+      "cat": "Social",
+      "sVi": "Tôi ___ bạn đi ăn.",
+      "sEn": "I invite you to eat.",
+      "type": "verb"
+    },
+    {
+      "vi": "cảm ơn",
+      "en": "thank",
+      "cat": "Social",
+      "sVi": "Tôi muốn ___ bạn.",
+      "sEn": "I want to thank you.",
+      "type": "verb"
+    },
+    {
+      "vi": "xin lỗi",
+      "en": "apologize",
+      "cat": "Social",
+      "sVi": "Tôi ___ vì đến trễ.",
+      "sEn": "I'm sorry for being late.",
+      "type": "verb"
+    },
+    {
+      "vi": "chào",
+      "en": "greet",
+      "cat": "Social",
+      "sVi": "Hãy ___ mọi người.",
+      "sEn": "Please greet everyone.",
+      "type": "verb"
+    },
+    {
+      "vi": "dọn dẹp",
+      "en": "tidy up / clean",
+      "cat": "Household",
+      "sVi": "Tôi đang ___ phòng.",
+      "sEn": "I am cleaning the room.",
+      "type": "verb"
+    },
+    {
+      "vi": "giặt đồ",
+      "en": "do laundry",
+      "cat": "Household",
+      "sVi": "Cuối tuần tôi thường ___.",
+      "sEn": "I usually do laundry on weekends.",
+      "type": "verb"
+    },
+    {
+      "vi": "rửa",
+      "en": "wash",
+      "cat": "Household",
+      "sVi": "Làm ơn ___ chén giúp tôi.",
+      "sEn": "Please wash the dishes for me.",
+      "type": "verb"
+    },
+    {
+      "vi": "mở",
+      "en": "open",
+      "cat": "Household",
+      "sVi": "Bạn có thể ___ cửa sổ không?",
+      "sEn": "Can you open the window?",
+      "type": "verb"
+    },
+    {
+      "vi": "đóng",
+      "en": "close",
+      "cat": "Household",
+      "sVi": "Nhớ ___ cửa lại nhé.",
+      "sEn": "Remember to close the door.",
+      "type": "verb"
+    },
+    {
+      "vi": "bật",
+      "en": "turn on",
+      "cat": "Household",
+      "sVi": "Làm ơn ___ đèn lên.",
+      "sEn": "Please turn on the light.",
+      "type": "verb"
+    },
+    {
+      "vi": "tắt",
+      "en": "turn off",
+      "cat": "Household",
+      "sVi": "Nhớ ___ quạt trước khi đi.",
+      "sEn": "Remember to turn off the fan before leaving.",
+      "type": "verb"
+    },
+    {
+      "vi": "đứng",
+      "en": "stand",
+      "cat": "Body Actions",
+      "sVi": "Xin mọi người ___ dậy.",
+      "sEn": "Please everyone stand up.",
+      "type": "verb"
+    },
+    {
+      "vi": "ngồi",
+      "en": "sit",
+      "cat": "Body Actions",
+      "sVi": "Mời bạn ___ xuống.",
+      "sEn": "Please sit down.",
+      "type": "verb"
+    },
+    {
+      "vi": "nằm",
+      "en": "lie down",
+      "cat": "Body Actions",
+      "sVi": "Em bé đang ___ ngủ.",
+      "sEn": "The baby is lying down sleeping.",
+      "type": "verb"
+    },
+    {
+      "vi": "cầm",
+      "en": "hold",
+      "cat": "Body Actions",
+      "sVi": "Bạn có thể ___ giúp tôi cái này không?",
+      "sEn": "Can you hold this for me?",
+      "type": "verb"
+    },
+    {
+      "vi": "lấy",
+      "en": "take / get",
+      "cat": "Body Actions",
+      "sVi": "Tôi cần ___ cái áo khoác.",
+      "sEn": "I need to get my jacket.",
+      "type": "verb"
+    },
+    {
+      "vi": "cho",
+      "en": "give",
+      "cat": "Body Actions",
+      "sVi": "Mẹ ___ tôi tiền.",
+      "sEn": "Mom gives me money.",
+      "type": "verb"
+    },
+    {
+      "vi": "mượn",
+      "en": "borrow",
+      "cat": "Body Actions",
+      "sVi": "Tôi muốn ___ cây bút của bạn.",
+      "sEn": "I want to borrow your pen.",
+      "type": "verb"
+    },
+    {
+      "vi": "trả",
+      "en": "return (something)",
+      "cat": "Body Actions",
+      "sVi": "Ngày mai tôi sẽ ___ sách lại cho bạn.",
+      "sEn": "Tomorrow I will return the book to you.",
+      "type": "verb"
+    }
+  ],
+  "nouns": [
+    {
+      "vi": "người",
+      "en": "person",
+      "cat": "People & Family",
+      "sVi": "Anh ấy là một ___ tốt.",
+      "sEn": "He is a good person.",
+      "type": "noun"
+    },
+    {
+      "vi": "bạn",
+      "en": "friend",
+      "cat": "People & Family",
+      "sVi": "Đây là ___ của tôi.",
+      "sEn": "This is my friend.",
+      "type": "noun"
+    },
+    {
+      "vi": "gia đình",
+      "en": "family",
+      "cat": "People & Family",
+      "sVi": "Tôi yêu ___ của tôi.",
+      "sEn": "I love my family.",
+      "type": "noun"
+    },
+    {
+      "vi": "ba",
+      "en": "dad",
+      "cat": "People & Family",
+      "note": "Southern; Northern says 'bố'",
+      "sVi": "___ tôi làm việc ở công ty.",
+      "sEn": "My dad works at a company.",
+      "type": "noun"
+    },
+    {
+      "vi": "mẹ",
+      "en": "mom",
+      "cat": "People & Family",
+      "sVi": "___ tôi nấu ăn rất ngon.",
+      "sEn": "My mom cooks very deliciously.",
+      "type": "noun"
+    },
+    {
+      "vi": "anh",
+      "en": "older brother",
+      "cat": "People & Family",
+      "sVi": "___ của tôi rất cao.",
+      "sEn": "My older brother is very tall.",
+      "type": "noun"
+    },
+    {
+      "vi": "chị",
+      "en": "older sister",
+      "cat": "People & Family",
+      "sVi": "___ tôi học đại học.",
+      "sEn": "My older sister studies at university.",
+      "type": "noun"
+    },
+    {
+      "vi": "em",
+      "en": "younger sibling",
+      "cat": "People & Family",
+      "sVi": "Tôi có một ___ trai.",
+      "sEn": "I have a younger brother.",
+      "type": "noun"
+    },
+    {
+      "vi": "con",
+      "en": "child",
+      "cat": "People & Family",
+      "sVi": "Họ có hai ___.",
+      "sEn": "They have two children.",
+      "type": "noun"
+    },
+    {
+      "vi": "ông",
+      "en": "grandfather",
+      "cat": "People & Family",
+      "sVi": "___ tôi đã già rồi.",
+      "sEn": "My grandfather is already old.",
+      "type": "noun"
+    },
+    {
+      "vi": "bà",
+      "en": "grandmother",
+      "cat": "People & Family",
+      "sVi": "___ tôi rất hiền.",
+      "sEn": "My grandmother is very gentle.",
+      "type": "noun"
+    },
+    {
+      "vi": "cơm",
+      "en": "rice / meal",
+      "cat": "Food & Drink",
+      "sVi": "Tôi ăn ___ mỗi ngày.",
+      "sEn": "I eat rice every day.",
+      "type": "noun"
+    },
+    {
+      "vi": "phở",
+      "en": "pho",
+      "cat": "Food & Drink",
+      "sVi": "___ là món ăn Việt Nam.",
+      "sEn": "Pho is a Vietnamese dish.",
+      "type": "noun"
+    },
+    {
+      "vi": "bánh mì",
+      "en": "banh mi",
+      "cat": "Food & Drink",
+      "sVi": "Tôi mua một ổ ___.",
+      "sEn": "I buy a loaf of banh mi.",
+      "type": "noun"
+    },
+    {
+      "vi": "nước",
+      "en": "water",
+      "cat": "Food & Drink",
+      "sVi": "Cho tôi một ly ___.",
+      "sEn": "Give me a glass of water.",
+      "type": "noun"
+    },
+    {
+      "vi": "cà phê",
+      "en": "coffee",
+      "cat": "Food & Drink",
+      "sVi": "Buổi sáng tôi uống ___.",
+      "sEn": "In the morning I drink coffee.",
+      "type": "noun"
+    },
+    {
+      "vi": "trà",
+      "en": "tea",
+      "cat": "Food & Drink",
+      "sVi": "Bạn có muốn uống ___ không?",
+      "sEn": "Do you want to drink tea?",
+      "type": "noun"
+    },
+    {
+      "vi": "trái cây",
+      "en": "fruit",
+      "cat": "Food & Drink",
+      "sVi": "Ở chợ có nhiều ___.",
+      "sEn": "There is a lot of fruit at the market.",
+      "type": "noun"
+    },
+    {
+      "vi": "rau",
+      "en": "vegetables",
+      "cat": "Food & Drink",
+      "sVi": "Tôi thích ăn ___.",
+      "sEn": "I like eating vegetables.",
+      "type": "noun"
+    },
+    {
+      "vi": "thịt",
+      "en": "meat",
+      "cat": "Food & Drink",
+      "sVi": "Món này có ___ bò.",
+      "sEn": "This dish has beef.",
+      "type": "noun"
+    },
+    {
+      "vi": "cá",
+      "en": "fish",
+      "cat": "Food & Drink",
+      "sVi": "Chúng tôi ăn ___ vào tối nay.",
+      "sEn": "We are eating fish tonight.",
+      "type": "noun"
+    },
+    {
+      "vi": "nhà",
+      "en": "house / home",
+      "cat": "Places",
+      "sVi": "___ của tôi rất gần trường.",
+      "sEn": "My house is very near the school.",
+      "type": "noun"
+    },
+    {
+      "vi": "trường học",
+      "en": "school",
+      "cat": "Places",
+      "sVi": "Con tôi đi ___ mỗi ngày.",
+      "sEn": "My child goes to school every day.",
+      "type": "noun"
+    },
+    {
+      "vi": "chợ",
+      "en": "market",
+      "cat": "Places",
+      "sVi": "Mẹ tôi đi ___ mua rau.",
+      "sEn": "My mom goes to the market to buy vegetables.",
+      "type": "noun"
+    },
+    {
+      "vi": "công ty",
+      "en": "company",
+      "cat": "Places",
+      "sVi": "Tôi làm việc ở một ___ lớn.",
+      "sEn": "I work at a big company.",
+      "type": "noun"
+    },
+    {
+      "vi": "bệnh viện",
+      "en": "hospital",
+      "cat": "Places",
+      "sVi": "Anh ấy đang ở ___.",
+      "sEn": "He is at the hospital.",
+      "type": "noun"
+    },
+    {
+      "vi": "quán ăn",
+      "en": "restaurant",
+      "cat": "Places",
+      "sVi": "Chúng tôi ăn tối ở ___ này.",
+      "sEn": "We ate dinner at this restaurant.",
+      "type": "noun"
+    },
+    {
+      "vi": "công viên",
+      "en": "park",
+      "cat": "Places",
+      "sVi": "Buổi sáng tôi đi bộ trong ___.",
+      "sEn": "In the morning I walk in the park.",
+      "type": "noun"
+    },
+    {
+      "vi": "thành phố",
+      "en": "city",
+      "cat": "Places",
+      "sVi": "___ này rất náo nhiệt.",
+      "sEn": "This city is very lively.",
+      "type": "noun"
+    },
+    {
+      "vi": "quê",
+      "en": "hometown",
+      "cat": "Places",
+      "sVi": "___ tôi ở miền Tây.",
+      "sEn": "My hometown is in the Mekong Delta.",
+      "type": "noun"
+    },
+    {
+      "vi": "ngày",
+      "en": "day",
+      "cat": "Time",
+      "sVi": "Hôm nay là một ___ đẹp trời.",
+      "sEn": "Today is a beautiful day.",
+      "type": "noun"
+    },
+    {
+      "vi": "tuần",
+      "en": "week",
+      "cat": "Time",
+      "sVi": "Tôi có ba buổi học mỗi ___.",
+      "sEn": "I have three classes every week.",
+      "type": "noun"
+    },
+    {
+      "vi": "tháng",
+      "en": "month",
+      "cat": "Time",
+      "sVi": "Sinh nhật tôi là ___ mười hai.",
+      "sEn": "My birthday is in month twelve (December).",
+      "type": "noun"
+    },
+    {
+      "vi": "năm",
+      "en": "year",
+      "cat": "Time",
+      "sVi": "___ nay tôi học tiếng Việt.",
+      "sEn": "This year I am learning Vietnamese.",
+      "type": "noun"
+    },
+    {
+      "vi": "giờ",
+      "en": "hour / o'clock",
+      "cat": "Time",
+      "sVi": "Bây giờ là mấy ___?",
+      "sEn": "What time is it now?",
+      "type": "noun"
+    },
+    {
+      "vi": "hôm nay",
+      "en": "today",
+      "cat": "Time",
+      "sVi": "___ trời rất nóng.",
+      "sEn": "Today the weather is very hot.",
+      "type": "noun"
+    },
+    {
+      "vi": "hôm qua",
+      "en": "yesterday",
+      "cat": "Time",
+      "sVi": "___ tôi rất bận.",
+      "sEn": "Yesterday I was very busy.",
+      "type": "noun"
+    },
+    {
+      "vi": "ngày mai",
+      "en": "tomorrow",
+      "cat": "Time",
+      "sVi": "___ tôi sẽ đi làm.",
+      "sEn": "Tomorrow I will go to work.",
+      "type": "noun"
+    },
+    {
+      "vi": "trời",
+      "en": "sky / weather",
+      "cat": "Nature & Weather",
+      "sVi": "___ hôm nay đẹp quá.",
+      "sEn": "The weather today is so beautiful.",
+      "type": "noun"
+    },
+    {
+      "vi": "mưa",
+      "en": "rain",
+      "cat": "Nature & Weather",
+      "sVi": "Hôm nay có ___ không?",
+      "sEn": "Is it raining today?",
+      "type": "noun"
+    },
+    {
+      "vi": "nắng",
+      "en": "sunshine",
+      "cat": "Nature & Weather",
+      "sVi": "Hôm nay trời nhiều ___.",
+      "sEn": "Today is very sunny.",
+      "type": "noun"
+    },
+    {
+      "vi": "gió",
+      "en": "wind",
+      "cat": "Nature & Weather",
+      "sVi": "Buổi tối có ___ mát.",
+      "sEn": "In the evening there's a cool breeze.",
+      "type": "noun"
+    },
+    {
+      "vi": "cây",
+      "en": "tree",
+      "cat": "Nature & Weather",
+      "sVi": "Trước nhà tôi có một ___ lớn.",
+      "sEn": "In front of my house there is a big tree.",
+      "type": "noun"
+    },
+    {
+      "vi": "biển",
+      "en": "sea / beach",
+      "cat": "Nature & Weather",
+      "sVi": "Mùa hè chúng tôi thường đi ___.",
+      "sEn": "In summer we usually go to the beach.",
+      "type": "noun"
+    },
+    {
+      "vi": "núi",
+      "en": "mountain",
+      "cat": "Nature & Weather",
+      "sVi": "Ở quê tôi có nhiều ___.",
+      "sEn": "In my hometown there are many mountains.",
+      "type": "noun"
+    },
+    {
+      "vi": "điện thoại",
+      "en": "phone",
+      "cat": "Objects",
+      "sVi": "___ của tôi bị hỏng rồi.",
+      "sEn": "My phone is broken.",
+      "type": "noun"
+    },
+    {
+      "vi": "xe",
+      "en": "vehicle",
+      "cat": "Objects",
+      "sVi": "Tôi đi làm bằng ___.",
+      "sEn": "I go to work by vehicle.",
+      "type": "noun"
+    },
+    {
+      "vi": "sách",
+      "en": "book",
+      "cat": "Objects",
+      "sVi": "Tôi đang đọc một cuốn ___ hay.",
+      "sEn": "I am reading a good book.",
+      "type": "noun"
+    },
+    {
+      "vi": "bàn",
+      "en": "table",
+      "cat": "Objects",
+      "sVi": "Đặt cái ly lên ___.",
+      "sEn": "Put the glass on the table.",
+      "type": "noun"
+    },
+    {
+      "vi": "ghế",
+      "en": "chair",
+      "cat": "Objects",
+      "sVi": "Ngồi xuống ___ này đi.",
+      "sEn": "Sit down on this chair.",
+      "type": "noun"
+    },
+    {
+      "vi": "cửa",
+      "en": "door",
+      "cat": "Objects",
+      "sVi": "Làm ơn đóng ___ lại.",
+      "sEn": "Please close the door.",
+      "type": "noun"
+    },
+    {
+      "vi": "chìa khóa",
+      "en": "key",
+      "cat": "Objects",
+      "sVi": "Tôi làm mất ___ rồi.",
+      "sEn": "I lost my key.",
+      "type": "noun"
+    },
+    {
+      "vi": "túi",
+      "en": "bag",
+      "cat": "Objects",
+      "sVi": "Cái ___ này rất đẹp.",
+      "sEn": "This bag is very beautiful.",
+      "type": "noun"
+    },
+    {
+      "vi": "tiền",
+      "en": "money",
+      "cat": "Objects",
+      "sVi": "Tôi không có nhiều ___.",
+      "sEn": "I don't have much money.",
+      "type": "noun"
+    },
+    {
+      "vi": "đầu",
+      "en": "head",
+      "cat": "Body Parts",
+      "sVi": "___ tôi hơi đau.",
+      "sEn": "My head hurts a little.",
+      "type": "noun"
+    },
+    {
+      "vi": "tay",
+      "en": "hand / arm",
+      "cat": "Body Parts",
+      "sVi": "Rửa ___ trước khi ăn.",
+      "sEn": "Wash your hands before eating.",
+      "type": "noun"
+    },
+    {
+      "vi": "chân",
+      "en": "leg / foot",
+      "cat": "Body Parts",
+      "sVi": "___ tôi rất mỏi.",
+      "sEn": "My legs are very sore.",
+      "type": "noun"
+    },
+    {
+      "vi": "mắt",
+      "en": "eye",
+      "cat": "Body Parts",
+      "sVi": "___ của cô ấy rất đẹp.",
+      "sEn": "Her eyes are very beautiful.",
+      "type": "noun"
+    },
+    {
+      "vi": "miệng",
+      "en": "mouth",
+      "cat": "Body Parts",
+      "sVi": "___ tôi bị đau.",
+      "sEn": "My mouth hurts.",
+      "type": "noun"
+    },
+    {
+      "vi": "bụng",
+      "en": "stomach",
+      "cat": "Body Parts",
+      "sVi": "___ tôi đang đói.",
+      "sEn": "My stomach is hungry.",
+      "type": "noun"
+    },
+    {
+      "vi": "xe máy",
+      "en": "motorbike",
+      "cat": "Transportation",
+      "sVi": "Ở Việt Nam, nhiều người đi ___.",
+      "sEn": "In Vietnam, many people ride motorbikes.",
+      "type": "noun"
+    },
+    {
+      "vi": "xe hơi",
+      "en": "car",
+      "cat": "Transportation",
+      "note": "Southern; also 'xe ô tô'",
+      "sVi": "Ba tôi mới mua một chiếc ___.",
+      "sEn": "My dad just bought a car.",
+      "type": "noun"
+    },
+    {
+      "vi": "xe buýt",
+      "en": "bus",
+      "cat": "Transportation",
+      "sVi": "Tôi đi học bằng ___.",
+      "sEn": "I go to school by bus.",
+      "type": "noun"
+    },
+    {
+      "vi": "máy bay",
+      "en": "airplane",
+      "cat": "Transportation",
+      "sVi": "Chúng tôi sẽ đi ___ về Việt Nam.",
+      "sEn": "We will fly back to Vietnam.",
+      "type": "noun"
+    },
+    {
+      "vi": "áo",
+      "en": "shirt",
+      "cat": "Clothing",
+      "sVi": "Cái ___ này rất đẹp.",
+      "sEn": "This shirt is very beautiful.",
+      "type": "noun"
+    },
+    {
+      "vi": "quần",
+      "en": "pants",
+      "cat": "Clothing",
+      "sVi": "Tôi cần mua một cái ___ mới.",
+      "sEn": "I need to buy new pants.",
+      "type": "noun"
+    },
+    {
+      "vi": "giày",
+      "en": "shoes",
+      "cat": "Clothing",
+      "sVi": "___ của tôi bị dơ rồi.",
+      "sEn": "My shoes are dirty.",
+      "type": "noun"
+    },
+    {
+      "vi": "nón",
+      "en": "hat",
+      "cat": "Clothing",
+      "note": "Southern; Northern says 'mũ'",
+      "sVi": "Đội ___ khi đi nắng.",
+      "sEn": "Wear a hat when going out in the sun.",
+      "type": "noun"
+    },
+    {
+      "vi": "học sinh",
+      "en": "student",
+      "cat": "School & Work",
+      "sVi": "Nó là một ___ giỏi.",
+      "sEn": "He is a good student.",
+      "type": "noun"
+    },
+    {
+      "vi": "giáo viên",
+      "en": "teacher",
+      "cat": "School & Work",
+      "sVi": "Cô ấy là ___ tiếng Anh.",
+      "sEn": "She is an English teacher.",
+      "type": "noun"
+    },
+    {
+      "vi": "công việc",
+      "en": "job / work",
+      "cat": "School & Work",
+      "sVi": "___ của tôi rất thú vị.",
+      "sEn": "My job is very interesting.",
+      "type": "noun"
+    },
+    {
+      "vi": "bài tập",
+      "en": "homework",
+      "cat": "School & Work",
+      "sVi": "Tôi chưa làm xong ___.",
+      "sEn": "I haven't finished my homework yet.",
+      "type": "noun"
+    },
+    {
+      "vi": "giá",
+      "en": "price",
+      "cat": "Money & Shopping",
+      "sVi": "___ của món này bao nhiêu?",
+      "sEn": "What is the price of this item?",
+      "type": "noun"
+    },
+    {
+      "vi": "cửa hàng",
+      "en": "store",
+      "cat": "Money & Shopping",
+      "sVi": "___ này bán quần áo.",
+      "sEn": "This store sells clothes.",
+      "type": "noun"
+    },
+    {
+      "vi": "máy tính",
+      "en": "computer",
+      "cat": "Technology",
+      "sVi": "Tôi cần một cái ___ mới.",
+      "sEn": "I need a new computer.",
+      "type": "noun"
+    }
+  ],
+  "grammar_core": [
+    {
+      "vi": "muốn",
+      "en": "want to",
+      "cat": "Modal Verbs",
+      "sVi": "Tôi ___ đi du lịch.",
+      "sEn": "I want to travel.",
+      "note": "muốn + verb = 'want to do something'.",
+      "type": "grammar"
+    },
+    {
+      "vi": "có thể",
+      "en": "can / to be able to",
+      "cat": "Modal Verbs",
+      "sVi": "Bạn ___ giúp tôi không?",
+      "sEn": "Can you help me?",
+      "note": "có thể + verb = 'can/could'. Often paired with 'không?' to ask.",
+      "type": "grammar"
+    },
+    {
+      "vi": "phải",
+      "en": "must / have to",
+      "cat": "Modal Verbs",
+      "sVi": "Tôi ___ đi làm sớm.",
+      "sEn": "I have to go to work early.",
+      "note": "phải + verb = obligation, 'must/have to'.",
+      "type": "grammar"
+    },
+    {
+      "vi": "nên",
+      "en": "should",
+      "cat": "Modal Verbs",
+      "sVi": "Bạn ___ ngủ sớm.",
+      "sEn": "You should sleep early.",
+      "note": "nên + verb = gentle advice, 'should'.",
+      "type": "grammar"
+    },
+    {
+      "vi": "cần",
+      "en": "need",
+      "cat": "Modal Verbs",
+      "sVi": "Tôi ___ một ly nước.",
+      "sEn": "I need a glass of water.",
+      "note": "cần + noun/verb = 'need'.",
+      "type": "grammar"
+    },
+    {
+      "vi": "hơn",
+      "en": "more than / -er",
+      "cat": "Comparisons",
+      "sVi": "Cái này lớn ___ cái kia.",
+      "sEn": "This one is bigger than that one.",
+      "note": "Comparative: adjective + hơn + noun = 'more ___ than'.",
+      "type": "grammar"
+    },
+    {
+      "vi": "nhất",
+      "en": "the most / -est",
+      "cat": "Comparisons",
+      "sVi": "Đây là món ngon ___.",
+      "sEn": "This is the most delicious dish.",
+      "note": "Superlative: adjective + nhất = 'the most ___'.",
+      "type": "grammar"
+    },
+    {
+      "vi": "bằng",
+      "en": "as ... as",
+      "cat": "Comparisons",
+      "sVi": "Tôi cao ___ bạn.",
+      "sEn": "I am as tall as you.",
+      "note": "Equal comparison: adjective + bằng + noun = 'as ___ as'.",
+      "type": "grammar"
+    },
+    {
+      "vi": "kém",
+      "en": "less than / not as good as",
+      "cat": "Comparisons",
+      "sVi": "Tôi hát ___ chị tôi.",
+      "sEn": "I sing worse than my older sister.",
+      "note": "kém + noun = 'not as good as / worse than'.",
+      "type": "grammar"
+    },
+    {
+      "vi": "đã",
+      "en": "already (past marker)",
+      "cat": "Tense Markers",
+      "sVi": "Tôi ___ ăn cơm rồi.",
+      "sEn": "I already ate.",
+      "note": "đã + verb = completed/past action.",
+      "type": "grammar"
+    },
+    {
+      "vi": "đang",
+      "en": "-ing (present continuous)",
+      "cat": "Tense Markers",
+      "sVi": "Tôi ___ học tiếng Việt.",
+      "sEn": "I am studying Vietnamese right now.",
+      "note": "đang + verb = action happening now.",
+      "type": "grammar"
+    },
+    {
+      "vi": "sẽ",
+      "en": "will (future marker)",
+      "cat": "Tense Markers",
+      "sVi": "Ngày mai tôi ___ đi làm.",
+      "sEn": "Tomorrow I will go to work.",
+      "note": "sẽ + verb = future action.",
+      "type": "grammar"
+    },
+    {
+      "vi": "không",
+      "en": "not",
+      "cat": "Negation",
+      "sVi": "Tôi ___ thích cà phê.",
+      "sEn": "I don't like coffee.",
+      "note": "không + verb/adjective = general negation.",
+      "type": "grammar"
+    },
+    {
+      "vi": "chưa",
+      "en": "not yet",
+      "cat": "Negation",
+      "sVi": "Tôi ___ ăn sáng.",
+      "sEn": "I haven't eaten breakfast yet.",
+      "note": "chưa + verb = 'not yet'; also 'đã ... chưa?' = 'have you ... yet?'",
+      "type": "grammar"
+    },
+    {
+      "vi": "gì",
+      "en": "what",
+      "cat": "Question Words",
+      "sVi": "Bạn muốn ăn ___?",
+      "sEn": "What do you want to eat?",
+      "note": "'gì' (what) goes at the end of the phrase it refers to.",
+      "type": "grammar"
+    },
+    {
+      "vi": "ai",
+      "en": "who",
+      "cat": "Question Words",
+      "sVi": "___ là giáo viên của bạn?",
+      "sEn": "Who is your teacher?",
+      "note": "'ai' (who) can start or end a sentence.",
+      "type": "grammar"
+    },
+    {
+      "vi": "ở đâu",
+      "en": "where",
+      "cat": "Question Words",
+      "sVi": "Nhà bạn ___?",
+      "sEn": "Where is your house?",
+      "note": "'ở đâu' (where) usually comes at the end of the sentence.",
+      "type": "grammar"
+    },
+    {
+      "vi": "khi nào",
+      "en": "when",
+      "cat": "Question Words",
+      "sVi": "___ bạn về nhà?",
+      "sEn": "When are you going home?",
+      "note": "'khi nào' can start the sentence for future events.",
+      "type": "grammar"
+    },
+    {
+      "vi": "tại sao",
+      "en": "why",
+      "cat": "Question Words",
+      "sVi": "___ bạn buồn vậy?",
+      "sEn": "Why are you sad?",
+      "note": "'tại sao' starts the question; answers often use 'vì' (because).",
+      "type": "grammar"
+    },
+    {
+      "vi": "thế nào",
+      "en": "how / what... like",
+      "cat": "Question Words",
+      "sVi": "Món ăn này ___?",
+      "sEn": "How is this dish?",
+      "note": "'thế nào' asks about quality or manner, placed at the end.",
+      "type": "grammar"
+    },
+    {
+      "vi": "bao nhiêu",
+      "en": "how much / how many",
+      "cat": "Question Words",
+      "sVi": "Cái này giá ___?",
+      "sEn": "How much does this cost?",
+      "note": "'bao nhiêu' asks about quantity or price.",
+      "type": "grammar"
+    },
+    {
+      "vi": "con",
+      "en": "classifier (animals)",
+      "cat": "Classifiers",
+      "sVi": "Tôi có một ___ chó.",
+      "sEn": "I have a dog.",
+      "note": "Classifier 'con' is used before animals (and casually for some people).",
+      "type": "grammar"
+    },
+    {
+      "vi": "cái",
+      "en": "classifier (objects)",
+      "cat": "Classifiers",
+      "sVi": "___ bàn này rất đẹp.",
+      "sEn": "This table is very beautiful.",
+      "note": "Classifier 'cái' is used before most inanimate objects.",
+      "type": "grammar"
+    },
+    {
+      "vi": "quyển",
+      "en": "classifier (books)",
+      "cat": "Classifiers",
+      "sVi": "Tôi có ba ___ sách.",
+      "sEn": "I have three books.",
+      "note": "Classifier 'quyển' (or 'cuốn') is used before books/notebooks.",
+      "type": "grammar"
+    },
+    {
+      "vi": "của",
+      "en": "of / belonging to",
+      "cat": "Possession",
+      "sVi": "Đây là xe ___ tôi.",
+      "sEn": "This is my vehicle.",
+      "note": "'của' shows possession: noun + của + owner.",
+      "type": "grammar"
+    },
+    {
+      "vi": "làm ơn",
+      "en": "please",
+      "cat": "Imperatives",
+      "sVi": "___ giúp tôi.",
+      "sEn": "Please help me.",
+      "note": "'làm ơn' politely softens a request, placed before the verb.",
+      "type": "grammar"
+    },
+    {
+      "vi": "hãy",
+      "en": "let's / please (do)",
+      "cat": "Imperatives",
+      "sVi": "___ ngồi xuống.",
+      "sEn": "Please sit down.",
+      "note": "'hãy' before a verb makes a polite suggestion or command.",
+      "type": "grammar"
+    },
+    {
+      "vi": "đừng",
+      "en": "don't",
+      "cat": "Imperatives",
+      "sVi": "___ lo lắng.",
+      "sEn": "Don't worry.",
+      "note": "'đừng' + verb = negative command, 'don't do that'.",
+      "type": "grammar"
+    },
+    {
+      "vi": "rất",
+      "en": "very",
+      "cat": "Intensifiers",
+      "sVi": "Món này ___ ngon.",
+      "sEn": "This dish is very delicious.",
+      "note": "'rất' goes before the adjective.",
+      "type": "grammar"
+    },
+    {
+      "vi": "quá",
+      "en": "so / too",
+      "cat": "Intensifiers",
+      "sVi": "Trời nóng ___!",
+      "sEn": "The weather is so hot!",
+      "note": "Southern colloquial 'quá' after the adjective emphasizes it strongly.",
+      "type": "grammar"
+    }
+  ],
+  "grammar_directions_and_prepositions": [
+    {
+      "vi": "thẳng",
+      "en": "straight",
+      "cat": "Directions",
+      "sVi": "Đi ___ rồi tới ngã tư.",
+      "sEn": "Go straight, then reach the intersection.",
+      "type": "grammar"
+    },
+    {
+      "vi": "quẹo",
+      "en": "turn",
+      "cat": "Directions",
+      "note": "Southern everyday word; 'rẽ' is the Northern/textbook equivalent",
+      "alt": [
+        "rẽ"
+      ],
+      "sVi": "___ trái ở đèn đỏ.",
+      "sEn": "Turn left at the traffic light.",
+      "type": "grammar"
+    },
+    {
+      "vi": "trái",
+      "en": "left",
+      "cat": "Directions",
+      "sVi": "Bên ___ có quán cà phê.",
+      "sEn": "On the left there's a coffee shop.",
+      "type": "grammar"
+    },
+    {
+      "vi": "phải",
+      "en": "right",
+      "cat": "Directions",
+      "sVi": "Quẹo ___ rồi đi thẳng.",
+      "sEn": "Turn right then go straight.",
+      "type": "grammar"
+    },
+    {
+      "vi": "ngã tư",
+      "en": "intersection (4-way)",
+      "cat": "Directions",
+      "sVi": "Nhà tôi gần ___ này.",
+      "sEn": "My house is near this intersection.",
+      "type": "grammar"
+    },
+    {
+      "vi": "ngã ba",
+      "en": "junction (3-way)",
+      "cat": "Directions",
+      "sVi": "Quẹo phải ở ___ đó.",
+      "sEn": "Turn right at that junction.",
+      "type": "grammar"
+    },
+    {
+      "vi": "đối diện",
+      "en": "across from / opposite",
+      "cat": "Directions",
+      "sVi": "Quán đó ___ trường học.",
+      "sEn": "That shop is across from the school.",
+      "type": "grammar"
+    },
+    {
+      "vi": "kế bên",
+      "en": "next to (casual)",
+      "cat": "Directions",
+      "sVi": "Nhà tôi ở ___ chợ.",
+      "sEn": "My house is next to the market.",
+      "type": "grammar"
+    },
+    {
+      "vi": "cách...bao xa",
+      "en": "how far is...",
+      "cat": "Directions",
+      "sVi": "Từ đây ___ đó?",
+      "sEn": "How far is it from here?",
+      "type": "grammar"
+    },
+    {
+      "vi": "trên",
+      "en": "on / above",
+      "cat": "Prepositions of Place",
+      "sVi": "Cuốn sách ở ___ bàn.",
+      "sEn": "The book is on the table.",
+      "type": "grammar"
+    },
+    {
+      "vi": "dưới",
+      "en": "under / below",
+      "cat": "Prepositions of Place",
+      "sVi": "Con mèo ở ___ ghế.",
+      "sEn": "The cat is under the chair.",
+      "type": "grammar"
+    },
+    {
+      "vi": "trong",
+      "en": "inside",
+      "cat": "Prepositions of Place",
+      "sVi": "Tiền ở ___ túi.",
+      "sEn": "The money is inside the bag.",
+      "type": "grammar"
+    },
+    {
+      "vi": "ngoài",
+      "en": "outside",
+      "cat": "Prepositions of Place",
+      "sVi": "Trời đang mưa ở ___.",
+      "sEn": "It's raining outside.",
+      "type": "grammar"
+    },
+    {
+      "vi": "trước",
+      "en": "in front of",
+      "cat": "Prepositions of Place",
+      "sVi": "Có một cây lớn ở ___ nhà.",
+      "sEn": "There is a big tree in front of the house.",
+      "type": "grammar"
+    },
+    {
+      "vi": "sau",
+      "en": "behind",
+      "cat": "Prepositions of Place",
+      "sVi": "Chợ nằm ở ___ trường học.",
+      "sEn": "The market is behind the school.",
+      "type": "grammar"
+    },
+    {
+      "vi": "giữa",
+      "en": "between / among",
+      "cat": "Prepositions of Place",
+      "sVi": "Ngân hàng ở ___ hai cửa hàng.",
+      "sEn": "The bank is between two stores.",
+      "type": "grammar"
+    }
+  ],
+  "grammar_extra_modal_verbs": [
+    {
+      "vi": "được",
+      "en": "can / allowed to",
+      "cat": "Modal Verbs",
+      "sVi": "Bạn ___ nghỉ hôm nay.",
+      "sEn": "You're allowed to rest today.",
+      "note": "After a verb (làm được) = 'able to'; before a state (được nghỉ) = 'get to / allowed to'.",
+      "type": "grammar"
+    },
+    {
+      "vi": "không được",
+      "en": "not allowed to / must not",
+      "cat": "Modal Verbs",
+      "sVi": "Ở đây ___ hút thuốc.",
+      "sEn": "You're not allowed to smoke here.",
+      "type": "grammar"
+    },
+    {
+      "vi": "định",
+      "en": "plan to / intend to",
+      "cat": "Modal Verbs",
+      "sVi": "Tôi ___ đi Đà Lạt.",
+      "sEn": "I plan to go to Đà Lạt.",
+      "type": "grammar"
+    },
+    {
+      "vi": "dám",
+      "en": "dare to",
+      "cat": "Modal Verbs",
+      "sVi": "Tôi không ___ nói.",
+      "sEn": "I don't dare to say it.",
+      "type": "grammar"
+    },
+    {
+      "vi": "cứ",
+      "en": "go ahead and... (casual)",
+      "cat": "Modal Verbs",
+      "sVi": "___ tự nhiên đi!",
+      "sEn": "Go ahead, make yourself at home!",
+      "note": "Very common Southern way to casually grant permission.",
+      "type": "grammar"
+    }
+  ],
+  "sentence_patterns_reference": [
+    {
+      "pattern": "S + V + O",
+      "example_vi": "Tôi ăn cơm.",
+      "example_en": "I eat rice."
+    },
+    {
+      "pattern": "S + là + Noun (to be)",
+      "example_vi": "Tôi là giáo viên.",
+      "example_en": "I am a teacher."
+    },
+    {
+      "pattern": "S + Adjective (no verb 'to be')",
+      "example_vi": "Tôi mệt.",
+      "example_en": "I am tired.",
+      "note": "Never insert 'là' before an adjective."
+    },
+    {
+      "pattern": "Yes/No question: S + (có) + V/Adj + không?",
+      "example_vi": "Bạn có khỏe không?",
+      "example_en": "Are you well?"
+    },
+    {
+      "pattern": "Have-you-yet: S + đã + V + chưa?",
+      "example_vi": "Bạn đã ăn chưa?",
+      "example_en": "Have you eaten yet?"
+    },
+    {
+      "pattern": "Comparative: Adj + hơn + Noun",
+      "example_vi": "Cái này lớn hơn cái kia.",
+      "example_en": "This is bigger than that."
+    },
+    {
+      "pattern": "Superlative: Adj + nhất",
+      "example_vi": "Đây là món ngon nhất.",
+      "example_en": "This is the most delicious."
+    },
+    {
+      "pattern": "Equal comparison: Adj + bằng + Noun",
+      "example_vi": "Tôi cao bằng bạn.",
+      "example_en": "I am as tall as you."
+    },
+    {
+      "pattern": "Possession: Noun + của + Owner",
+      "example_vi": "Đây là xe của tôi.",
+      "example_en": "This is my vehicle.",
+      "note": "'của' is often dropped when meaning is clear: 'nhà tôi' = my house."
+    },
+    {
+      "pattern": "Counting: Number + Classifier + Noun",
+      "example_vi": "hai quyển sách",
+      "example_en": "two books"
+    },
+    {
+      "pattern": "Directions: Đi thẳng → quẹo trái/phải → đến nơi",
+      "example_vi": "Đi thẳng rồi quẹo trái ở ngã tư.",
+      "example_en": "Go straight, then turn left at the intersection."
+    }
+  ],
+  "numbers_reference": [
+    {
+      "range": "0-10",
+      "rule": "không, một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười"
+    },
+    {
+      "range": "11-19",
+      "rule": "mười + digit",
+      "example": "mười một (11), mười lăm (15 — irregular!), mười chín (19)"
+    },
+    {
+      "range": "20, 30...90",
+      "rule": "digit + mươi",
+      "example": "hai mươi (20), ba mươi (30)..."
+    },
+    {
+      "range": "21, 31...",
+      "rule": "...mươi + mốt (not 'một')",
+      "example": "hai mươi mốt (21)"
+    },
+    {
+      "range": "100",
+      "rule": "một trăm",
+      "example": "một trăm linh một = 101"
+    }
+  ],
+  "southern_accent_pronunciation_notes": [
+    "gi-, d-, v- are all pronounced like the English 'y' in the South (giá, da, và all start with the same /y/ sound) — in the North they're kept distinct.",
+    "r is a true 'r' sound in the South (like English 'r'); in the North it often sounds like 'z'.",
+    "The hỏi (˧˩˧) and ngã (˧ˀ˥) tones are usually merged into one tone in casual Southern speech, while Northern speech keeps them distinct.",
+    "Final -n/-ng and -t/-c often blur together in fast Southern speech (e.g. 'ăn' can sound close to 'ăng') — don't worry if you can't hear the difference at first.",
+    "Southerners say dạ for a polite 'yes'/acknowledgment far more often than vâng (which is more Northern); very casually, 'không' is often shortened to hông or hổng."
+  ]
+}
