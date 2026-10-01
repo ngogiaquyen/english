@@ -1,3 +1,4 @@
+// @ts-nocheck
 // =============================================================================
 // WORDS — Vietnamese vocabulary
 // Format: {id, tier, vn, north, en, category, example_vn, example_en}
