@@ -27,6 +27,7 @@ const getVietnameseWordsData = (): WordData[] => {
     }
     return {
       word: item.vn,
+      englishWord: item.en,
       type: item.category,
       phonetic: item.north ? `Bắc: ${item.north}` : undefined,
       meaning: meaning
@@ -60,6 +61,7 @@ const getA1Data = (): WordData[] => {
         }
         result.push({
           word: item.vi,
+          englishWord: item.en,
           type: item.type || item.cat || key,
           phonetic: item.alt ? `Alt: ${item.alt}` : undefined,
           meaning: meaning
